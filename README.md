@@ -23,9 +23,13 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+-Accessability on the web is the practice of making the web more inclusive by accounting for individuals with disabilities, individuals who only view websites via a smart phone, individuals with low internet speeds. Historically, web sites were programmed for the only medium that was around, a desktop. 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+-Three things that make your website more accessible are using semantic tags in your HTML, using scalable units, and using a viewport meta tag. Using semantic HTML tags ensure that screen readers can more efficiently navigate your website for users that have visibility issues. Using scalable units ensures that users that can only access your website via a mobile phone have a website that can be easily navigated and used on their smaller screen. Using the viewport metatag allows you to create @media queries to adjust your website for different screen widths ensuring you can provide the best experience for all screen sizes. 
 3. How would you explain the concept of a variable to someone new to programming?
+-A variable is a place holder for a value, such as a number or word/sentence. Your program can then reference back to your variable or manipulate it. Variables are foundational in programming. 
 4. What is the purpose of using functions in code?
+-Using functions in code allows you to run a set of code (the function) when you call it and pass through to it variables as parameters and receive a return value. This allows you to run the same function for different variables of the same type, it's reusable. This makes code DRY and makes it easier to read/maintain.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
